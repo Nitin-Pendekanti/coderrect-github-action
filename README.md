@@ -36,7 +36,7 @@ More information about Coderrect Scanner is available at: [Coderrect.com](https:
 
 ## Demo
 
-<img src="images/demo.gif" alt="Demo" width="100%" height="auto">
+<img src="images/demo.gif" alt="Demo" width="490px">
 
 ## Before You Start
 
